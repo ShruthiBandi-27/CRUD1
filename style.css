@@ -1,0 +1,23 @@
+
+*{
+    border: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: black;
+} 
+
+.search {
+    margin: 1rem;
+}
+
+.myh1 {
+    font-weight: normal;
+    color: white;
+}
+
+.search:hover{
+    box-shadow: 3px 7px 8px #888888
+}
